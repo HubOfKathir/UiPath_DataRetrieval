@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <body style="font-family: Arial, sans-serif; color: #000;">
+    <p><strong>✅ Process Completed Successfully</strong></p>
+    <p>The bot has successfully retrieved and processed the required data.<br>
+    No issues were encountered during the execution.</p>
+    <br>
+    <p>Regards,<br>
+    <em>Data Retrieval Bot</em></p>
+  </body>
+</html>

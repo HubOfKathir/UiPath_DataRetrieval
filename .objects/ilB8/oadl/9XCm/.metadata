@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Search Results",
+  "Type": "Screen",
+  "Id": "9XCmaRKyzUCKI8Evu7t23A",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/9XCmaRKyzUCKI8Evu7t23A",
+  "ParentRef": "h55VqEoaxkixWYT5IfvAWQ/oadlMAOFvkm-3yuaTyJTyw",
+  "Created": "2025-07-01T07:39:15.3954721Z",
+  "Updated": "2025-07-01T07:39:15.3954721Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

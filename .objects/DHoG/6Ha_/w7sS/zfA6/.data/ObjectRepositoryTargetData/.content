@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PSeeMNu0v0K1YXWtjKB49w" Reference="h55VqEoaxkixWYT5IfvAWQ/zfA6KkXa6UKI69EO4FftqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="0c71fc86-f15e-49cc-afd0-2a3ed55fb41e" CvElementArea="612, 904, 62, 35" CvTextArea="679, 914, 108, 16" CvTextArgument="items per page" CvType="InputBox" DesignTimeRectangle="587, 905, 219, 33" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='items per page' tableRow='{0}' tag='SPAN' /&gt;&quot;, TableRow)]" Guid="c2b86337-c88e-4859-86f1-b02bb71bf3bf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="0c71fc86-f15e-49cc-afd0-2a3ed55fb41e" CvTextArea="1679, 912, 138, 13" CvTextArgument="1 - 10 of 100 items" CvType="Text" DesignTimeRectangle="1661, 905, 174, 28" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='1 - 10 of 100 items' tableRow='{0}' tag='SPAN' /&gt;&quot;, TableRow)]" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='{0}' tag='SPAN' class='k-pager-sizes k-label' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;&quot;, TableRow)]" Guid="15e6c0b8-6a43-4528-85d1-2eea1644a43c" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6605890a93be308a92a72e6b5b1c3c59.png" xmlns="">0AKDOkJ-glUmdrNa4ZFbNMw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="TableRow" />
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

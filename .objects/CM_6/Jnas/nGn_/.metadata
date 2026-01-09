@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Search Results",
+  "Type": "Screen",
+  "Id": "nGn_hg2OykWZd1h9ZRAXDA",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/nGn_hg2OykWZd1h9ZRAXDA",
+  "ParentRef": "h55VqEoaxkixWYT5IfvAWQ/Jnas-Gj7J0enzYUMeLnj9g",
+  "Created": "2025-08-05T06:23:40.4256824Z",
+  "Updated": "2025-08-05T06:23:40.4256824Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

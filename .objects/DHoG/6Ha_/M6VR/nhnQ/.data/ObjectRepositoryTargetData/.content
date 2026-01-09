@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="if1c8reuuk-nazuU94qgzQ" Reference="h55VqEoaxkixWYT5IfvAWQ/nhnQMR0RcUSHaArozgck8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="267f05e7-f5f1-47c2-ba91-bacf05798db5" CvElementArea="960, 772, 95, 53" CvType="InputBox" DesignTimeRectangle="961, 773, 95, 51" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='listbox' type='' tag='SPAN' class='k-widget k-dropdown k-header' aaname='' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8f9f4361-e1ad-4bc9-8d90-2127968676e7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="267f05e7-f5f1-47c2-ba91-bacf05798db5" CvTextArea="1563, 785, 206, 21" CvTextArgument="1 - 10 of 101 items" CvType="Text" DesignTimeRectangle="1536, 775, 261, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='1 - 10 of 101 items' type='' tag='SPAN' class='k-pager-info k-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='1 - 10 of 101 items' /&gt;" Guid="a0210629-533a-43f2-9d44-223b491c7333" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e3a949799de09e76037769186c9e596d.png" xmlns="">0kWlzJEkSbkGqNctNMfraWQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

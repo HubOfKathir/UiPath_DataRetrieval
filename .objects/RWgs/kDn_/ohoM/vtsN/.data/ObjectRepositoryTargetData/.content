@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X-EESo5o90mj915QFcaDRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/app/RegisterOfActions" CVScreenId="c5d5e2a4-a9d0-457a-8249-f555e37844b1" CvTextArea="26, 218, 76, 11" CvTextArgument="CASE EVENTS" CvType="Text" DesignTimeRectangle="26, 218, 76, 11" ElementType="Text" Guid="dbf0503d-e1b8-40bb-9ae5-38186415abf3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Register of Actions - BT-2024-ST-000075' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebad2ce948d850fa1b144b70dcb2f49f.png" xmlns="">0no6bD1KVfU2YSkMsRY8aEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

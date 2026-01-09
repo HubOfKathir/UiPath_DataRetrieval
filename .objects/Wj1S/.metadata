@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Kansas District Court Public Access Portal",
+  "Type": "App",
+  "Id": "Wj1SeSIKS0yHLDSopXZTSA",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/Wj1SeSIKS0yHLDSopXZTSA",
+  "Created": "2025-07-24T10:05:08.0028455Z",
+  "Updated": "2025-07-24T10:05:08.0028455Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

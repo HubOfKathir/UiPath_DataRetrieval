@@ -1,0 +1,11 @@
+﻿<!DOCTYPE html>
+<html>
+  <body style="font-family: Arial, sans-serif; color: #000;">
+    <p><strong>⚠️ Process Failed</strong></p>
+    <p>The bot was unable to retrieve the required data.<br>
+    Please check and give a Rerun</p>
+    <br>
+    <p>Regards,<br>
+    <em>Data Retrieval Bot</em></p>
+  </body>
+</html>

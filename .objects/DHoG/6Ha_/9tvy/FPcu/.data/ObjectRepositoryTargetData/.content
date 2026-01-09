@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fhK1CDtlWUiL_WBre57WuQ" Reference="h55VqEoaxkixWYT5IfvAWQ/FPcu_reNhECed80xy-TGRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal" CVScreenId="ceed3983-1288-4840-b68b-d96af9e39f94" CvTextArea="68, 117, 1779, 21" CvTextArgument="Kansas District Court Public Access Portal Welcome, Carol" CvType="Text" DesignTimeRectangle="12, 142, 1895, 86" FullSelectorArgument="&lt;webctrl class='container-fluid' parentid='omnibar' tag='DIV' /&gt;" Guid="4144de36-02e6-40c8-ba4c-d431f7d47037" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Kansas District Court Public Access Portal' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="ceed3983-1288-4840-b68b-d96af9e39f94" CvTextArea="424, 250, 254, 22" CvTextArgument="Terms and Conditions" CvType="Text" DesignTimeRectangle="158, 370, 1603, 43" ElementType="Text" FuzzyAccuracy="0.8" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='' aaname='Terms and Conditions' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Terms and Conditions' /&gt;" Guid="97cdfe5b-53e6-46cc-b3c5-8dbfa7abd62d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="aa7ed3936d1d4c485289d68385643d74.png" xmlns="">01h9YeRH2pESPly7hPTvg-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

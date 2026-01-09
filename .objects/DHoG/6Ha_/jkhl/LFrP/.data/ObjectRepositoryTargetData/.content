@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J5BtoRX4XEe-z1UNIA0oUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="1" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="c0086baa-8803-4ab5-a722-1d1830f16c87" CvElementArea="115, 353, 36, 40" CvType="ArrowButton" DesignTimeRectangle="125, 365, 24, 24" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl parentid='Grid' type='' tag='A' class='k-icon k-minus' aaname='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="1cf5ba70-fe8d-4aa9-b65d-facde447ec5a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEPSURBVEhL5dbbC8FQHMDx/Wn8BS4leZKSllKSlKTIi1F4IEvuucQDcqmZ/W9HZzUd+825YCgPn5dj5/cdZ0HyBJvokyT7gtt+K+h1WGNh7bEFG+CC193PpL5DN3w3WKkv0fF0FmYYBorIKhju5Ba0Drs/3pkDRGSKEzCYRD5I4CMNxDq3u+ahtFYgQAOCWDI3BIOdTOd7sJfFMYiVawsQIOn6BYUTfOdGehjEeqMtCFnSBfq5PUIN+qIdtD9oIFZtrcG1vKhBTM7en+d4Jn5uJGYQKylLM6addRSKd8HrIriCmDrYoFR+BNZFcQf90TZYewZ38F3+KMj6pX4F9cvbbX8X/PKfqGceJNYeatANV+Su1l+Do4tEAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="FuzzySelector, Image, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c0086baa-8803-4ab5-a722-1d1830f16c87" CvTextArea="179, 362, 414, 25" CvTextArgument="Kansas Department of Revenue" CvType="Text" DesignTimeRectangle="165, 343, 1062, 62" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='gridcell' parentid='Grid' tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='gridcell' parentid='Grid' type='' tag='TD' class='' aaname='' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Kansas Department of Revenue' /&gt;" Guid="b202d16b-ce72-4da0-a388-e7d262d3d72e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7c6bd751c8480ca3ee9868f28640d809.png" xmlns="">0hVpMxGe3c0ii7UIBDJ_01g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

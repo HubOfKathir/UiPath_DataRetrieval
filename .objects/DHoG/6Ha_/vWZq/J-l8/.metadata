@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Smart Search General Op…",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "J-l8wx4wQkqBhIOTZM67aw",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/J-l8wx4wQkqBhIOTZM67aw",
+  "ParentRef": "h55VqEoaxkixWYT5IfvAWQ/vWZqZp6N9UK75KvklZkfBA",
+  "Created": "2025-06-02T08:57:32.9300328Z",
+  "Updated": "2025-06-02T08:57:32.9300328Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

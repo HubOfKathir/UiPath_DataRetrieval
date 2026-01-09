@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N7iGBLSiK02se19cQENrAw" Reference="h55VqEoaxkixWYT5IfvAWQ/zLSKrmcAYEOfy9aie2ebgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="00109916-89b8-48ed-ac7e-cdab89ac8c04" CvElementArea="438, 493, 102, 51" CvType="InputBox" DesignTimeRectangle="442, 591, 95, 52" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='listbox' tableRow='*' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='listbox' type='' tag='SPAN' class='k-widget k-dropdown k-header' aaname='' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="7f6684cb-f88b-458d-8e1b-be2619a598a2" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="00109916-89b8-48ed-ac7e-cdab89ac8c04" CvTextArea="1550, 503, 220, 21" CvTextArgument="1 - 101 of 101 items" CvType="Text" DesignTimeRectangle="1523, 592, 274, 42" ElementType="Text" FuzzyAccuracy="0.58" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='1 - 101 of 101 items' type='' tag='SPAN' class='k-pager-info k-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='1 - 101 of 101 items' /&gt;" Guid="1c9a549d-b99b-4921-b205-9989251422da" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="da1e009c9e052509dc223f9ddae4fe55.png" xmlns="">07q7qN98eiUKDBK8MTeGUTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

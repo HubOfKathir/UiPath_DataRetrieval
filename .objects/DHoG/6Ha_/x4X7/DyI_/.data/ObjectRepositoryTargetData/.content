@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xdduvwcJI0Gaa4YmtDs1Og" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="fe670d1e-716a-44ed-89be-dad0615fa446" CvTextArea="74, 337, 270, 28" CvTextArgument="Party Search Results" CvType="Text" DesignTimeRectangle="74, 335, 1773, 29" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='PartyResultSection' tag='H1' /&gt;" Guid="8ca4a098-1166-4595-b822-c386e644e099" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="b421fa08388064f05893d4f49dce0f92.png" xmlns="">0lT6mHzsODEK6I1TvvaWguw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

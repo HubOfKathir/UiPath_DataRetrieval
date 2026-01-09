@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J5nGOFD870ixw4s2uS-amA" Reference="h55VqEoaxkixWYT5IfvAWQ/reO5DkCx50yxiLMJkudM0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="473f48c6-71ad-43cf-8499-ebd0d75975d8" CvTextArea="1659, 612, 116, 24" CvTextArgument="Cases (98)" CvType="Text" DesignTimeRectangle="177, 585, 1620, 75" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl parentid='grid_23202' type='' tag='DIV' class='party-card-columns' aaname='                    ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Cases (98)' /&gt;" Guid="bfbc0811-6305-45a4-a7ea-32c1271f02e7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="6559aff89cabce1751542ba57fc7c1c2.png" xmlns="">0T08ySSOyPEKuK-uulVU6mg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

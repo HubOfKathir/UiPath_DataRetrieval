@@ -1,0 +1,63 @@
+﻿{
+  "Metadata": {
+    "Id": "ff22e368-d57b-4f51-8185-e45fa9d1a4fc",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "NewForm",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Pick the Date",
+        "format": "MM-dd-yyyy",
+        "description": "Enter the Dates From April 01 2024",
+        "tableView": false,
+        "datePicker": {
+          "disableWeekends": false,
+          "disableWeekdays": false
+        },
+        "enableTime": false,
+        "enableMinDateInput": false,
+        "enableMaxDateInput": false,
+        "key": "dateTime",
+        "type": "datetime",
+        "input": true,
+        "widget": {
+          "type": "calendar",
+          "displayInTimezone": "viewer",
+          "locale": "en",
+          "useLocaleSettings": false,
+          "allowInput": true,
+          "mode": "single",
+          "enableTime": false,
+          "noCalendar": false,
+          "format": "MM-dd-yyyy",
+          "hourIncrement": 1,
+          "minuteIncrement": 1,
+          "time_24hr": false,
+          "minDate": null,
+          "disableWeekends": false,
+          "disableWeekdays": false,
+          "maxDate": null
+        },
+        "keyModified": true
+      },
+      {
+        "label": "Submit",
+        "showValidations": false,
+        "size": "sm",
+        "block": true,
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "saveOnEnter": false,
+        "input": true
+      }
+    ]
+  }
+}

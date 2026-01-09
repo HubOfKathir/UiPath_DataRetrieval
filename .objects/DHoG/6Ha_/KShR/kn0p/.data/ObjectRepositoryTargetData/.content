@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HutILY22Hk64ENPpY8FlIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="6ab9a932-6807-4290-a4a7-84e70cec684e" CvTextArea="188, 653, 219, 21" CvTextArgument="AN-2025-ST-000048" CvType="Text" DesignTimeRectangle="186, 652, 222, 21" ElementType="Text" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='caseLink' type='' tag='A' aaname='AN-2025-ST-000048' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='AN-2025-ST-000048' /&gt;" Guid="469e2cbf-0f8f-46a4-87e7-bd59c661b8fa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="713e34af840ddfc1dc6f1ca587d7ab6d.png" xmlns="">0M0XAbHgRKUitH3UaV94faw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

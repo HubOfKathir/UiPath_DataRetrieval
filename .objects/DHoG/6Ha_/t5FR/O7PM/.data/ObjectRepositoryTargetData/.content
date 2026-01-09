@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SF4w9piImk6yZRGs5TLqtQ" Reference="h55VqEoaxkixWYT5IfvAWQ/O7PMCsxwW0eSMBLjuTq3uQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" DesignTimeRectangle="165, -69, 1645, 1297" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='k-detail-cell' parentid='*' tableRow='8' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='k-detail-cell' parentid='Grid' type='' tag='TD' aaname='                ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Cases (98)&amp;#xA;Cases&amp;#xA;Case Number&amp;#xA;&amp;#x9;&amp;#xA;Style / Defendant&amp;#xA;&amp;#x9;&amp;#xA;Type&amp;#xA;&amp;#x9;&amp;#xA;Location&amp;#xA;&amp;#x9;&amp;#xA;Party Name&amp;#xA;&amp;#xA;GY-2025-ST-000042&amp;#x9;' /&gt;" Guid="8fb50256-0a16-4643-a500-486b4718cf00" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ece27aa560f1d45e7c3df78deffe4637.png" xmlns="">04G39RmoWW0GP1qbj6K72Iw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

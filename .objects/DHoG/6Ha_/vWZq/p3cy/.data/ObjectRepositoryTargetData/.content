@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KO9qYF3Rv0OrPqsQr9mXzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/Dashboard/29" CVScreenId="c93ce0a2-6cab-4dd8-99cc-3e4abc696228" CvElementArea="179, 627, 1117, 70" CvType="InputBox" DesignTimeRectangle="181, 630, 1119, 65" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='k-dropdown-wrap k-state-default' parentid='caseCriteria_SearchCases_Section' tabindex='-1' tag='SPAN' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="79252ec5-99c6-4d67-b545-3c6abb016be0" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Smart Search - Kansas District Court Public Access Portal' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c93ce0a2-6cab-4dd8-99cc-3e4abc696228" CvTextArea="210, 599, 225, 22" CvTextArgument="Filter by Case Status" CvType="Text" DesignTimeRectangle="212, 594, 222, 35" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='caseCriteria_CaseStatus_listbox_label' tag='LABEL' type='' class='ClickThroughIE stay' aaname='Filter by Case Status' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Filter by Case Status' /&gt;" Guid="83570ee4-8217-4691-b891-3a4c949b6245" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fe0c633212c0892f2a47c565ac8b5792.png" xmlns="">0F5pP1BzLQEKyaS2bef5cZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

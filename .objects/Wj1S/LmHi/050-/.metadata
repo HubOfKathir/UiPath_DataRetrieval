@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Kansas District Court Public Access Port",
+  "Type": "Screen",
+  "Id": "050-pIxNJkSg1oXRfwiEfg",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/050-pIxNJkSg1oXRfwiEfg",
+  "ParentRef": "h55VqEoaxkixWYT5IfvAWQ/LmHiyO_ndU2biZUzhG3dfA",
+  "Created": "2025-07-24T10:05:08.0743127Z",
+  "Updated": "2025-07-24T10:05:08.0743127Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lAhVRtMhd0-Nzj9Ac1Z0ew" Reference="h55VqEoaxkixWYT5IfvAWQ/JoeNAGj0Vkm-w3TGYlLaow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="c22b2c27-fdbc-4edb-aa64-6b82a80f1e76" CvTextArea="126, 471, 148, 13" CvTextArgument="[CaseNumber]" CvType="Text" DesignTimeRectangle="128, 585, 145, 17" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='caseLink' type='' tag='A' aaname='{0}' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;&quot;, CaseNumber)]" Guid="0203216c-3743-4dec-add7-22054e975cfb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c22b2c27-fdbc-4edb-aa64-6b82a80f1e76" CvTextArea="742, 471, 91, 13" CvTextArgument="ST State Tax" CvType="Text" DesignTimeRectangle="735, 578, 219, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='gridcell' isleaf='1' type='' tag='TD' class='card-data party-case-type' aaname='ST State Tax' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='ST State Tax' /&gt;" Guid="59d52f20-efc3-455c-8df1-3455b1f6976f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6bdf3cf1d3988d948085cb487310f9da.png" xmlns="">0jfR0amhZNE-Y4FkreQWcXA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="CaseNumber" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

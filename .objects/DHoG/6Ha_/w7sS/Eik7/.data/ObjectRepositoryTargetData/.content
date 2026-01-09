@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J2mgyPBTW0WP6lsqWI-0Sg" Reference="h55VqEoaxkixWYT5IfvAWQ/Eik7ur-huE-qmlfEqe_Lkw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="56915b4e-2e50-4d85-bd90-a9f570e621c3" CvTextArea="1653, 692, 117, 25" CvTextArgument="Cases (10)" CvType="Text" DesignTimeRectangle="1655, 687, 115, 34" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='party-card-row' tableRow='{0}' tag='DIV' data-count='*' /&gt;&quot;, TableRow)]" Guid="95f7f656-1621-4c23-af6f-76f06352e0c7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search Results' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="56915b4e-2e50-4d85-bd90-a9f570e621c3" CvTextArea="185, 614, 414, 25" CvTextArgument="Kansas Department of Revenue" CvType="Text" DesignTimeRectangle="171, 596, 1055, 62" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='gridcell' parentid='Grid' type='' tag='TD' class='' aaname='' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Kansas Department of Revenue' /&gt;" Guid="08f96af2-16ce-4253-8ee1-ff6724b6c803" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="11889dddacca6aef72b7b0727064246e.png" xmlns="">089jGzToG3U-YzccUucJ6Nw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="TableRow" />
+    </scg:List>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

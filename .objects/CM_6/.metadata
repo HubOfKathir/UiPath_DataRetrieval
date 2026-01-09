@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Search Results",
+  "Type": "App",
+  "Id": "CM_6Xvqa_k-s1WjSPj6BSw",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/CM_6Xvqa_k-s1WjSPj6BSw",
+  "Created": "2025-08-05T06:23:40.1245072Z",
+  "Updated": "2025-08-05T06:23:40.1245072Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

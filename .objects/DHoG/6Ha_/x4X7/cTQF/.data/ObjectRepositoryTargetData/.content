@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hXFhbJDrGkKbx5uDjcUTnw" Reference="h55VqEoaxkixWYT5IfvAWQ/cTQFSbfhh06r9VJfA_MgnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="0f61249e-d24b-4c6f-9f2a-42c422a6348f" CvTextArea="22, 301, 514, 15" CvTextArgument="There was an error while processing your request. Please try again later." CvType="Text" DesignTimeRectangle="23, 299, 1875, 23" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='ui-tabs-1' tag='P' /&gt;" Guid="f0576999-b89f-424c-b5b0-6334b748fc5d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search Results' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="0f61249e-d24b-4c6f-9f2a-42c422a6348f" CvTextArea="23, 334, 80, 14" CvTextArgument="Back Home" CvType="Text" DesignTimeRectangle="23, 333, 79, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='ui-tabs-1' tag='A' type='' class='tyler-btn tyler-btn-primary' aaname='Back Home' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Back Home' /&gt;" Guid="20ebae30-2087-43be-8a56-597d4fbac310" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="93f0e0121b5cd3ee675067a422039459.png" xmlns="">0WDKmaHr6o0yvgd7U8pROOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

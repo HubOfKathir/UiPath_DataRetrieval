@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="l4dTbIjFm0GhAL5vyzHY5A" Reference="h55VqEoaxkixWYT5IfvAWQ/LvrubIMuBEWyg6mC9WT3pQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="8ba0edd8-9f10-4b88-8ac7-bce39b4deac6" CvElementArea="608, 723, 62, 35" CvType="InputBox" DesignTimeRectangle="608, 724, 63, 34" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='listbox' type='' tag='SPAN' class='k-widget k-dropdown k-header' aaname='' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="f3cae1c2-a884-4fa7-af04-fbe515463b27" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="8ba0edd8-9f10-4b88-8ac7-bce39b4deac6" CvElementArea="608, 723, 62, 35" CvType="InputBox" DesignTimeRectangle="644, 724, 27, 32" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='k-select' type='' tag='SPAN' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='select' /&gt;" Guid="8da05b1e-9062-4f64-b969-cc0ae4a22ecf" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB8AAAAkCAYAAABxE+FXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAADLSURBVFhH7daxDoMgEIBh3/+ZdEd20F2ZdEETFyU0Z1LanmkFo97Q+5KLBiX/oAOZJ5ThhTtxnATHSXCcBMe/GobB930fNal240Ap5fM8/zlt2+Jtu6LizjkvhNgEn1NVFd4SJSoOrLWbKIyUEr8aLToOmqb5CBdFsf4TRyXFgdY6xI0x+HGS5Dgoy9LXdY2Xkx2Kw/c/w6H4WThOguMkOE7iv+LLsoT72+JwGpqmyY/jGNYyfAi8arquW6/zPL/isHj1QBROPO9h8ADEMTdwwd7qvQAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, Image, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="50cac89366d38b6bfc07a1156f5897a8.png" xmlns="">0RDAaCZGZVUu4t7rwmIRYOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

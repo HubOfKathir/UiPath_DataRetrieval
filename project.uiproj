@@ -1,0 +1,6 @@
+{
+  "Name": "Data Retrieval Process_FullSearch",
+  "ProjectType": "Process",
+  "Description": "Kansas Public Court - Data Retrieval",
+  "MainFile": "Main.xaml"
+}

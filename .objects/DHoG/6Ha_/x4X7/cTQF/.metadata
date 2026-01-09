@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1 Smart Search 2 Search…",
+  "Type": "Element",
+  "Id": "cTQFSbfhh06r9VJfA_MgnA",
+  "Reference": "h55VqEoaxkixWYT5IfvAWQ/cTQFSbfhh06r9VJfA_MgnA",
+  "ParentRef": "h55VqEoaxkixWYT5IfvAWQ/x4X73T3rt0Sr_dswBBJpmA",
+  "Created": "2025-05-27T05:10:46.2784577Z",
+  "Updated": "2025-05-27T05:10:46.2784577Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

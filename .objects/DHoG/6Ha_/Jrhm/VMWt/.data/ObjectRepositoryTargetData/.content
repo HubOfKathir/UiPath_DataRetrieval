@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3GvKII3Zy0Okh4I-GJfKtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="344e67c8-8fed-45ba-852a-562b659a7325" CvType="AnyWordGroup" DesignTimeRectangle="34, 447, 1852, 35" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='ui-tabs-1' tag='P' /&gt;" Guid="7cb8d3d5-2492-4e27-9bfd-3363c4d59414" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="55a8605066f6b3c65a80941719e4e33b.png" xmlns="">0qpGcvzyNbUqANA3WJgwODw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

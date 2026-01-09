@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uAK5tdpcDk2dUkZPJZWVsA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/Dashboard/29" DesignTimeRectangle="106, 318, 1708, 872" FullSelectorArgument="&lt;webctrl class='panel-body' parentid='SSColumn' tag='DIV' /&gt;" Guid="14beb487-4ebc-4751-a6e0-e92435f8c0ab" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Smart Search - Kansas District Court Public Access Portal' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="4befaf3f2465fbf3dcd5af66742cd84a.png" xmlns="">0jCqSPbQffUG6js0IK_N8SQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

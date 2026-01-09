@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3hom2iYfkUST804RTKOIRg" Reference="h55VqEoaxkixWYT5IfvAWQ/ljOyC7W2hUibnNhYg08SzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="prodportal.kscourts.gov/ProdPortal/Home/WorkspaceMode" CVScreenId="39564106-2962-4e00-9d26-e348a94f2001" CvElementArea="608, 377, 63, 35" CvType="InputBox" DesignTimeRectangle="286, -83, 504, 33" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tableRow='13' tag='TABLE' /&gt;&lt;webctrl aria-role='gridcell' parentid='CaseResultsGrid_98228756CB72F8EE164F917C8028C305' tag='TD' idx='2' /&gt;" Guid="679ec2f7-36b2-4fb8-9e97-e376ba290c4a" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Results' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="39564106-2962-4e00-9d26-e348a94f2001" CvElementArea="557, 382, 20, 20" CvType="Icon" DesignTimeRectangle="555, 378, 28, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='seek-e' class='k-link' type='' tag='A' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='seek-e' /&gt;" Guid="acff4ae2-2c8a-41e4-a45d-90c22d39659b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAC7SURBVFhH7dTBCsIwDAbgvf8r6ZzK1IMoojcVVNCpHfPgyhylNJKCOwSEXGwR8kMOy3/Id+kSiJyELkJHAAIQgAD+B9A0L7ryqaoHHI4n0FrTihUWwFoLaTaCu1K0guJ6g16awbOuacUKG4BHcLa7PTjnui44AGe+WIIxxndRADjjfOqPRgP0B0NQZRkHkE9m3cHggNV6478/CQbAZ3i+FLQKA8Bn9+1Hg7i2bemaHRbglxGAAAQgAAG8Aen10asnStT6AAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="26b58b09af422ad2a18f9f68d13dd5b5.png" xmlns="">0kJWMjgjngEmRMG-vaAh6sQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
